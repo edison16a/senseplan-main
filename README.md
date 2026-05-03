@@ -1,5 +1,5 @@
 # Development Note 
-This project was built and launched in **under 12 hours**.
+Winner at Luma A2A Agents Hackathon 2025. This project was built and launched in **under 12 hours**.
 
 
 # Inspiration
